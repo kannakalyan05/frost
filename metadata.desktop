@@ -1,7 +1,7 @@
 [SddmGreeterTheme]
-Name=KDE-Story
-Description=Breeze-Chameleon Theme for Plasma
-Author=l4k1
+Name=frost
+Description=Frost SDDM Theme for Plasma
+Author=kalyan
 License=GPLv.3
 Type=sddm-theme
 Version=1.1
@@ -9,5 +9,5 @@ Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=l4k1987@gmail.com
-Theme-Id=KDE-Story
+Email=kannakalyan05@gmail.com
+Theme-Id=forst
